@@ -1,0 +1,17 @@
+C:\Users\isard\source\Repos\PROYECTO NUEVO\bin\Debug\net6.0-windows\PROYECTO NUEVO.exe
+C:\Users\isard\source\Repos\PROYECTO NUEVO\bin\Debug\net6.0-windows\PROYECTO NUEVO.deps.json
+C:\Users\isard\source\Repos\PROYECTO NUEVO\bin\Debug\net6.0-windows\PROYECTO NUEVO.runtimeconfig.json
+C:\Users\isard\source\Repos\PROYECTO NUEVO\bin\Debug\net6.0-windows\PROYECTO NUEVO.dll
+C:\Users\isard\source\Repos\PROYECTO NUEVO\bin\Debug\net6.0-windows\PROYECTO NUEVO.pdb
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.csproj.AssemblyReference.cache
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO_NUEVO.Form1.resources
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.csproj.GenerateResource.cache
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.AssemblyInfoInputs.cache
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.AssemblyInfo.cs
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.dll
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\refint\PROYECTO NUEVO.dll
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.pdb
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\PROYECTO NUEVO.genruntimeconfig.cache
+C:\Users\isard\source\Repos\PROYECTO NUEVO\obj\Debug\net6.0-windows\ref\PROYECTO NUEVO.dll
